@@ -315,9 +315,13 @@
   }
   .projects-placeholder p {
     font-family: 'JetBrains Mono', monospace;
-    font-size: 0.72rem;
+    font-size: 0.9rem;
     color: var(--dim);
     letter-spacing: 0.05em;
+  }
+
+  .project-info{
+    margin-bottom:20px;  
   }
 
   /* ---- FOOTER ---- */
